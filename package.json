@@ -1,0 +1,25 @@
+{
+  "name": "react-native-rhdevice-info",
+  "version": "0.0.1",
+  "description": "瑞昊RN项目获取工程信息工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elex92/React-Native-RHDeviceInfo.git"
+  },
+  "keywords": [
+    "react",
+    "ruihao",
+    "rh",
+    "device-info"
+  ],
+  "author": "elex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elex92/React-Native-RHDeviceInfo/issues"
+  },
+  "homepage": "https://github.com/Elex92/React-Native-RHDeviceInfo#readme"
+}
